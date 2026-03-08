@@ -91,7 +91,7 @@ Whether you are a beginner setting up a server for the first time or an experien
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/YourUsername/auto-config-firewall.git
+git clone https://github.com/Vishalmani-11/auto-config-firewall.git
 cd auto-config-firewall
 ```
 
@@ -316,7 +316,7 @@ Contributions are welcome! Here's how:
 
 **GOD$EYE**
 
-- GitHub: [@YourUsername](https://github.com/YourUsername)
+- GitHub: [@Vishalmani-11](https://github.com/Vishalmani-11)
 
 ---
 
