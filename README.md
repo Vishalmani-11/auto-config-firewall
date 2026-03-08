@@ -340,7 +340,7 @@ Software.
 
 <div align="center">
 
-Made with 🔥 by **GOD$EYE**
+Made with 🔥 by **GOD$EYE** aka Vishalmani-11
 
 ⭐ If this tool helped you, give it a star on GitHub!
 
